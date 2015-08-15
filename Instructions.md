@@ -6,9 +6,8 @@ On the host machine:
 mkdir /home/server-data  
 mkdir /home/server-data/mysqldata  
 
-#Add the config file my.cnf (in the root of this repository) to another directory on the host, for example:  
-
-/home/server-cfg/my.cnf  
+#Add the config file my.cnf (in the root of this repository) to another directory on the host   
+## for example:  /home/server-cfg/my.cnf  
 
 vim /home/server-cfg/my.cnf 
 (paste in the contents, adjust as you see fit)  
