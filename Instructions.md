@@ -1,6 +1,7 @@
 On the host machine: 
 
-#Create a diretory to store server data, for example: /home/server-data/mysqldata  
+#Create a diretory to store server data    
+##  for example: /home/server-data/mysqldata  
 
 mkdir /home/server-data  
 mkdir /home/server-data/mysqldata  
